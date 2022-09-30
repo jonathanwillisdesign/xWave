@@ -1,0 +1,20 @@
+{
+  "ratio": {
+    "value": "1.4",
+    "type": "other"
+  },
+  "base": {
+    "value": "16",
+    "type": "other"
+  },
+  "power": {
+    "2xs": {
+      "value": "-1",
+      "type": "other"
+    },
+    "xs": {
+      "value": "-0.5",
+      "type": "other"
+    }
+  }
+}

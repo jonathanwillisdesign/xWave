@@ -1,0 +1,46 @@
+{
+  "caption": {
+    "01": {
+      "value": "{reg.2xs}",
+      "type": "typography"
+    }
+  },
+  "body": {
+    "03": {
+      "value": "{reg.xs}",
+      "type": "typography"
+    },
+    "02": {
+      "value": "{reg.sm}",
+      "type": "typography"
+    },
+    "01": {
+      "value": "{reg.md}",
+      "type": "typography"
+    }
+  },
+  "heading": {
+    "03": {
+      "value": "{bold.md}",
+      "type": "typography"
+    },
+    "02": {
+      "value": "{bold.lg}",
+      "type": "typography"
+    },
+    "01": {
+      "value": "{bold.xl}",
+      "type": "typography"
+    }
+  },
+  "display": {
+    "02": {
+      "value": "{black.xl}",
+      "type": "typography"
+    },
+    "01": {
+      "value": "{black.2xl}",
+      "type": "typography"
+    }
+  }
+}

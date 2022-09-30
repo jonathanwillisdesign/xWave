@@ -1,0 +1,10 @@
+{
+  "tokenSetOrder": [
+    "_base",
+    "_app",
+    "_desktop",
+    "type",
+    "light",
+    "dark"
+  ]
+}

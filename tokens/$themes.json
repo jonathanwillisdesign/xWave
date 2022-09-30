@@ -1,0 +1,15 @@
+[
+  {
+    "id": "f5e7fd3386ba011245e839d1d18218808d70438e",
+    "name": "light",
+    "selectedTokenSets": {
+      "type": "enabled",
+      "_base": "enabled",
+      "_app": "enabled",
+      "_desktop": "disabled",
+      "light": "disabled",
+      "dark": "disabled"
+    },
+    "$figmaStyleReferences": {}
+  }
+]
