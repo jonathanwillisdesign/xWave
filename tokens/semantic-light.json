@@ -1,0 +1,12 @@
+{
+  "fg": {
+    "primary": {
+      "value": "{gray.12}",
+      "type": "color"
+    },
+    "inverted": {
+      "value": "{gray.1}",
+      "type": "color"
+    }
+  }
+}

@@ -3,6 +3,10 @@
     "01": {
       "value": "{reg.2xs}",
       "type": "typography"
+    },
+    "02-bold": {
+      "value": "{bold.xs}",
+      "type": "typography"
     }
   },
   "body": {

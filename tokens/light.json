@@ -248,5 +248,15 @@
       "value": "#00254d",
       "type": "color"
     }
+  },
+  "neutral": {
+    "black": {
+      "value": "#000000",
+      "type": "color"
+    },
+    "white": {
+      "value": "#ffffff",
+      "type": "color"
+    }
   }
 }

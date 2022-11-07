@@ -5,6 +5,7 @@
     "_desktop",
     "type",
     "light",
-    "dark"
+    "dark",
+    "semantic-light"
   ]
 }
