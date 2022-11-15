@@ -4,7 +4,7 @@
       "value": "{reg.2xs}",
       "type": "typography"
     },
-    "02-bold": {
+    "01-bold": {
       "value": "{bold.xs}",
       "type": "typography"
     }

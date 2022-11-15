@@ -2,6 +2,7 @@
   "tokenSetOrder": [
     "_base",
     "_app",
+    "_tablet",
     "_desktop",
     "type",
     "light",
