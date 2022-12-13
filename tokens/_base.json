@@ -342,5 +342,61 @@
       },
       "type": "typography"
     }
+  },
+  "sp-2xs": {
+    "value": "round((({ratio}^{power.2xs})*{base})/{grid})*{grid}",
+    "type": "spacing"
+  },
+  "sp-xs": {
+    "value": "round((({ratio}^{power.xs})*{base})/{grid})*{grid}",
+    "type": "spacing"
+  },
+  "sp-sm": {
+    "value": "round((({ratio}^{power.sm})*{base})/{grid})*{grid}",
+    "type": "spacing"
+  },
+  "sp-md": {
+    "value": "round((({ratio}^{power.md})*{base})/{grid})*{grid}",
+    "type": "spacing"
+  },
+  "sp-lg": {
+    "value": "round((({ratio}^{power.lg})*{base})/{grid})*{grid}",
+    "type": "spacing"
+  },
+  "sp-xl": {
+    "value": "round((({ratio}^{power.xl})*{base})/{grid})*{grid}",
+    "type": "spacing"
+  },
+  "sp-2xl": {
+    "value": "round((({ratio}^{power.2xl})*{base})/{grid})*{grid}",
+    "type": "spacing"
+  },
+  "size-2xs": {
+    "value": "round((({ratio}^{power.2xs})*{base})/{grid})*{grid}",
+    "type": "sizing"
+  },
+  "size-xs": {
+    "value": "round((({ratio}^{power.xs})*{base})/{grid})*{grid}",
+    "type": "sizing"
+  },
+  "size-sm": {
+    "value": "round((({ratio}^{power.sm})*{base})/{grid})*{grid}",
+    "type": "sizing"
+  },
+  "size-md": {
+    "value": "round((({ratio}^{power.md})*{base})/{grid})*{grid}",
+    "type": "sizing"
+  },
+  "size-lg": {
+    "value": "round((({ratio}^{power.lg})*{base})/{grid})*{grid}",
+    "type": "sizing"
+  },
+  "size-xl": {
+    "value": "round((({ratio}^{power.xl})*{base})/{grid})*{grid}",
+    "type": "sizing"
+  },
+  "size-2xl": {
+    "value": "round((({ratio}^{power.2xl})*{base})/{grid})*{grid}",
+    "type": "sizing"
   }
 }

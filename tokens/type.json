@@ -28,6 +28,10 @@
       "value": "{bold.md}",
       "type": "typography"
     },
+    "04": {
+      "value": "{bold.sm}",
+      "type": "typography"
+    },
     "02": {
       "value": "{bold.lg}",
       "type": "typography"
