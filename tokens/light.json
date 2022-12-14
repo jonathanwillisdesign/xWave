@@ -258,5 +258,15 @@
       "value": "#ffffff",
       "type": "color"
     }
+  },
+  "semantic": {
+    "neutral": {
+      "value": "{neutral.white}",
+      "type": "color"
+    },
+    "inverted": {
+      "value": "{neutral.black}",
+      "type": "color"
+    }
   }
 }
