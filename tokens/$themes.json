@@ -5,13 +5,8 @@
     "selectedTokenSets": {
       "type": "enabled",
       "_base": "enabled",
-      "_app": "enabled",
-      "_desktop": "disabled",
       "light": "enabled",
-      "dark": "disabled",
-      "_tablet": "disabled",
-      "theme-bigmotive": "disabled",
-      "theme-pokemon": "disabled"
+      "semantic": "disabled"
     },
     "$figmaStyleReferences": {
       "caption.01": "S:a14c8a93c3c1cce90cd324ab472100e64a345717,",
@@ -30,14 +25,9 @@
     "name": "dark",
     "selectedTokenSets": {
       "_base": "enabled",
-      "_app": "enabled",
-      "_desktop": "disabled",
       "type": "enabled",
-      "light": "disabled",
       "dark": "enabled",
-      "_tablet": "disabled",
-      "theme-bigmotive": "disabled",
-      "theme-pokemon": "disabled"
+      "semantic": "disabled"
     },
     "$figmaStyleReferences": {
       "gray.1": "S:4ecf536667b0d6f07130d5b3d2c77bbc3be31334,",

@@ -1,0 +1,30 @@
+{
+  "fg": {
+    "primary": {
+      "value": "{gray.12}",
+      "type": "color"
+    },
+    "secondary": {
+      "value": "{gray.11}",
+      "type": "color"
+    },
+    "inverted": {
+      "value": "{gray.1}",
+      "type": "color"
+    }
+  },
+  "bg": {
+    "primary": {
+      "value": "{gray.1}",
+      "type": "color"
+    },
+    "secondary": {
+      "value": "{gray.2}",
+      "type": "color"
+    },
+    "inverted": {
+      "value": "{gray.12}",
+      "type": "color"
+    }
+  }
+}

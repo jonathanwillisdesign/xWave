@@ -1,13 +1,10 @@
 {
   "tokenSetOrder": [
     "_base",
-    "_app",
-    "_tablet",
     "_desktop",
     "type",
     "light",
     "dark",
-    "theme-bigmotive",
-    "theme-pokemon"
+    "semantic"
   ]
 }
