@@ -333,7 +333,7 @@
     }
   },
   "bw-card": {
-    "value": "2",
+    "value": "1",
     "type": "borderWidth"
   },
   "bw-tag": {
@@ -343,7 +343,7 @@
   "card": {
     "default": {
       "value": {
-        "color": "{border.mono.default}",
+        "color": "{border.mono.subtle}",
         "width": "{bw-card}"
       },
       "type": "border"
@@ -377,6 +377,24 @@
         "width": "{bw-tag}"
       },
       "type": "border"
+    },
+    "note": {
+      "value": {
+        "color": "{border.mono.hover}",
+        "width": "{bw-tag}"
+      },
+      "type": "border"
     }
+  },
+  "bs-card": {
+    "value": {
+      "x": "0",
+      "y": "2",
+      "blur": "0",
+      "spread": "0",
+      "color": "{border.mono.subtle}",
+      "type": "dropShadow"
+    },
+    "type": "boxShadow"
   }
 }
