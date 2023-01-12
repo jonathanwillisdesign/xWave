@@ -398,5 +398,9 @@
   "size-2xl": {
     "value": "round((({ratio}^{power.2xl})*{base})/{grid})*{grid}",
     "type": "sizing"
+  },
+  "br-main": {
+    "value": "8",
+    "type": "borderRadius"
   }
 }

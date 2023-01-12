@@ -1,0 +1,43 @@
+{
+  "icon": {
+    "default": {
+      "value": {
+        "color": "{text.default}",
+        "width": "{bw-icon}"
+      },
+      "type": "border"
+    },
+    "subtle": {
+      "value": {
+        "color": "{text.subtle}",
+        "width": "{bw-icon}"
+      },
+      "type": "border"
+    },
+    "inverted": {
+      "value": {
+        "color": "{text.inverted}",
+        "width": "{bw-icon}"
+      },
+      "type": "border"
+    },
+    "onSolidMain": {
+      "value": {
+        "color": "{text.onSolid.main}",
+        "width": "{bw-icon}"
+      },
+      "type": "border"
+    },
+    "onSolidBright": {
+      "value": {
+        "color": "{text.onSolid.bright}",
+        "width": "{bw-icon}"
+      },
+      "type": "border"
+    }
+  },
+  "bw-icon": {
+    "value": "2",
+    "type": "borderWidth"
+  }
+}

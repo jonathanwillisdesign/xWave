@@ -1,30 +1,123 @@
 {
-  "fg": {
-    "primary": {
+  "text": {
+    "default": {
       "value": "{gray.12}",
-      "type": "color"
+      "type": "color",
+      "description": "High Contrast Text"
     },
-    "secondary": {
+    "subtle": {
       "value": "{gray.11}",
-      "type": "color"
+      "type": "color",
+      "description": "Low Contrast Text"
     },
     "inverted": {
-      "value": "{gray.1}",
+      "value": "{raw.neutral}",
       "type": "color"
+    },
+    "onSolid": {
+      "main": {
+        "value": "{neutral.white}",
+        "type": "color"
+      },
+      "bright": {
+        "value": "{neutral.black}",
+        "type": "color"
+      }
     }
   },
   "bg": {
-    "primary": {
-      "value": "{gray.1}",
-      "type": "color"
+    "app": {
+      "neutral": {
+        "value": "{gray.1}",
+        "type": "color"
+      },
+      "inverted": {
+        "value": "{gray.12}",
+        "type": "color"
+      }
     },
-    "secondary": {
-      "value": "{gray.2}",
-      "type": "color"
+    "ui": {
+      "subtle": {
+        "value": "{gray.2}",
+        "type": "color",
+        "description": "Subtle background"
+      },
+      "default": {
+        "value": "{gray.3}",
+        "type": "color",
+        "description": "UI element background"
+      },
+      "hover": {
+        "value": "{gray.4}",
+        "type": "color",
+        "description": "Hovered UI element background"
+      },
+      "active": {
+        "value": "{gray.5}",
+        "type": "color",
+        "description": "Active / Selected UI element background"
+      }
     },
-    "inverted": {
-      "value": "{gray.12}",
-      "type": "color"
+    "solid": {
+      "mono": {
+        "default": {
+          "value": "{gray.9}",
+          "type": "color",
+          "description": "Solid backgrounds"
+        },
+        "hover": {
+          "value": "{gray.10}",
+          "type": "color",
+          "description": "Hovered solid backgrounds\n"
+        }
+      },
+      "brand": {
+        "default": {
+          "value": "{blue.9}",
+          "type": "color",
+          "description": "Solid backgrounds"
+        },
+        "hover": {
+          "value": "{blue.10}",
+          "type": "color",
+          "description": "Hovered solid backgrounds\n"
+        },
+        "dark": {
+          "value": "{blue.11}",
+          "type": "color",
+          "description": "Hovered solid backgrounds\n"
+        }
+      }
+    }
+  },
+  "border": {
+    "subtle": {
+      "value": "{gray.6}",
+      "type": "color",
+      "description": "Subtle borders and separators"
+    },
+    "default": {
+      "value": "{gray.7}",
+      "type": "color",
+      "description": "UI element border and focus rings"
+    },
+    "hover": {
+      "value": "{gray.8}",
+      "type": "color",
+      "description": "Hovered UI element border"
+    }
+  },
+  "bw-card": {
+    "value": "2",
+    "type": "borderWidth"
+  },
+  "card": {
+    "default": {
+      "value": {
+        "color": "{border.default}",
+        "width": "{bw-card}"
+      },
+      "type": "border"
     }
   }
 }

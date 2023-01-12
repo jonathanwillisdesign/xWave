@@ -259,7 +259,7 @@
       "type": "color"
     }
   },
-  "semantic": {
+  "raw": {
     "neutral": {
       "value": "{neutral.white}",
       "type": "color"
