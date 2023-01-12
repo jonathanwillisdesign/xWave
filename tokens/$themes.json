@@ -5,8 +5,7 @@
     "selectedTokenSets": {
       "type": "enabled",
       "_base": "enabled",
-      "light": "enabled",
-      "icons": "disabled"
+      "light": "enabled"
     },
     "$figmaStyleReferences": {
       "caption.01": "S:a14c8a93c3c1cce90cd324ab472100e64a345717,",
@@ -26,8 +25,7 @@
     "selectedTokenSets": {
       "_base": "enabled",
       "type": "enabled",
-      "dark": "enabled",
-      "icons": "disabled"
+      "dark": "enabled"
     },
     "$figmaStyleReferences": {
       "gray.1": "S:4ecf536667b0d6f07130d5b3d2c77bbc3be31334,",

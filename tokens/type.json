@@ -50,5 +50,19 @@
       "value": "{black.2xl}",
       "type": "typography"
     }
+  },
+  "tag": {
+    "01": {
+      "value": {
+        "fontFamily": "{ff-primary}",
+        "fontWeight": "{fw-Bold}",
+        "fontSize": "{fs-xs}",
+        "lineHeight": "{lh-xs}",
+        "letterSpacing": "3%",
+        "textDecoration": "",
+        "textCase": "Uppercase"
+      },
+      "type": "typography"
+    }
   }
 }

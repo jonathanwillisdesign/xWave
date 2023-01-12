@@ -120,11 +120,11 @@
     "type": "fontWeights"
   },
   "fw-Bold": {
-    "value": "Bold",
+    "value": "Semi Bold",
     "type": "fontWeights"
   },
   "fw-Black": {
-    "value": "Black",
+    "value": "Bold",
     "type": "fontWeights"
   },
   "reg": {
@@ -402,5 +402,13 @@
   "br-main": {
     "value": "8",
     "type": "borderRadius"
+  },
+  "br-full": {
+    "value": "9999",
+    "type": "borderRadius"
+  },
+  "sp-grid": {
+    "value": "{grid}",
+    "type": "spacing"
   }
 }

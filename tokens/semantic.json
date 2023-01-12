@@ -23,6 +23,18 @@
         "value": "{neutral.black}",
         "type": "color"
       }
+    },
+    "success": {
+      "value": "{green.11}",
+      "type": "color"
+    },
+    "danger": {
+      "value": "{red.11}",
+      "type": "color"
+    },
+    "pending": {
+      "value": "{yellow.11}",
+      "type": "color"
     }
   },
   "bg": {
@@ -37,25 +49,93 @@
       }
     },
     "ui": {
-      "subtle": {
-        "value": "{gray.2}",
-        "type": "color",
-        "description": "Subtle background"
+      "mono": {
+        "subtle": {
+          "value": "{gray.2}",
+          "type": "color",
+          "description": "Subtle background"
+        },
+        "default": {
+          "value": "{gray.3}",
+          "type": "color",
+          "description": "UI element background"
+        },
+        "hover": {
+          "value": "{gray.4}",
+          "type": "color",
+          "description": "Hovered UI element background"
+        },
+        "active": {
+          "value": "{gray.5}",
+          "type": "color",
+          "description": "Active / Selected UI element background"
+        }
       },
-      "default": {
-        "value": "{gray.3}",
-        "type": "color",
-        "description": "UI element background"
+      "success": {
+        "subtle": {
+          "value": "{green.2}",
+          "type": "color",
+          "description": "Subtle background"
+        },
+        "default": {
+          "value": "{green.3}",
+          "type": "color",
+          "description": "UI element background"
+        },
+        "hover": {
+          "value": "{green.4}",
+          "type": "color",
+          "description": "Hovered UI element background"
+        },
+        "active": {
+          "value": "{green.5}",
+          "type": "color",
+          "description": "Active / Selected UI element background"
+        }
       },
-      "hover": {
-        "value": "{gray.4}",
-        "type": "color",
-        "description": "Hovered UI element background"
+      "danger": {
+        "subtle": {
+          "value": "{red.2}",
+          "type": "color",
+          "description": "Subtle background"
+        },
+        "default": {
+          "value": "{red.3}",
+          "type": "color",
+          "description": "UI element background"
+        },
+        "hover": {
+          "value": "{red.4}",
+          "type": "color",
+          "description": "Hovered UI element background"
+        },
+        "active": {
+          "value": "{red.5}",
+          "type": "color",
+          "description": "Active / Selected UI element background"
+        }
       },
-      "active": {
-        "value": "{gray.5}",
-        "type": "color",
-        "description": "Active / Selected UI element background"
+      "pending": {
+        "subtle": {
+          "value": "{yellow.2}",
+          "type": "color",
+          "description": "Subtle background"
+        },
+        "default": {
+          "value": "{yellow.3}",
+          "type": "color",
+          "description": "UI element background"
+        },
+        "hover": {
+          "value": "{yellow.4}",
+          "type": "color",
+          "description": "Hovered UI element background"
+        },
+        "active": {
+          "value": "{yellow.5}",
+          "type": "color",
+          "description": "Active / Selected UI element background"
+        }
       }
     },
     "solid": {
@@ -69,6 +149,11 @@
           "value": "{gray.10}",
           "type": "color",
           "description": "Hovered solid backgrounds\n"
+        },
+        "dark": {
+          "value": "{gray.11}",
+          "type": "color",
+          "description": "Dark solid backgrounds"
         }
       },
       "brand": {
@@ -85,37 +170,168 @@
         "dark": {
           "value": "{blue.11}",
           "type": "color",
+          "description": "Dark solid backgrounds"
+        }
+      },
+      "success": {
+        "default": {
+          "value": "{green.9}",
+          "type": "color",
+          "description": "Solid backgrounds"
+        },
+        "hover": {
+          "value": "{green.10}",
+          "type": "color",
           "description": "Hovered solid backgrounds\n"
+        },
+        "dark": {
+          "value": "{green.11}",
+          "type": "color",
+          "description": "Dark solid backgrounds"
+        }
+      },
+      "danger": {
+        "default": {
+          "value": "{red.9}",
+          "type": "color",
+          "description": "Solid backgrounds"
+        },
+        "hover": {
+          "value": "{red.10}",
+          "type": "color",
+          "description": "Hovered solid backgrounds\n"
+        },
+        "dark": {
+          "value": "{red.11}",
+          "type": "color",
+          "description": "Dark solid backgrounds"
+        }
+      },
+      "pending": {
+        "default": {
+          "value": "{yellow.9}",
+          "type": "color",
+          "description": "Solid backgrounds"
+        },
+        "hover": {
+          "value": "{yellow.10}",
+          "type": "color",
+          "description": "Hovered solid backgrounds\n"
+        },
+        "dark": {
+          "value": "{yellow.11}",
+          "type": "color",
+          "description": "Dark solid backgrounds\n"
         }
       }
     }
   },
   "border": {
-    "subtle": {
-      "value": "{gray.6}",
-      "type": "color",
-      "description": "Subtle borders and separators"
+    "mono": {
+      "subtle": {
+        "value": "{gray.6}",
+        "type": "color",
+        "description": "Subtle borders and separators"
+      },
+      "default": {
+        "value": "{gray.7}",
+        "type": "color",
+        "description": "UI element border and focus rings"
+      },
+      "hover": {
+        "value": "{gray.8}",
+        "type": "color",
+        "description": "Hovered UI element border"
+      }
     },
-    "default": {
-      "value": "{gray.7}",
-      "type": "color",
-      "description": "UI element border and focus rings"
+    "success": {
+      "subtle": {
+        "value": "{green.6}",
+        "type": "color",
+        "description": "Subtle borders and separators"
+      },
+      "default": {
+        "value": "{green.7}",
+        "type": "color",
+        "description": "UI element border and focus rings"
+      },
+      "hover": {
+        "value": "{green.8}",
+        "type": "color",
+        "description": "Hovered UI element border"
+      }
     },
-    "hover": {
-      "value": "{gray.8}",
-      "type": "color",
-      "description": "Hovered UI element border"
+    "danger": {
+      "subtle": {
+        "value": "{red.6}",
+        "type": "color",
+        "description": "Subtle borders and separators"
+      },
+      "default": {
+        "value": "{red.7}",
+        "type": "color",
+        "description": "UI element border and focus rings"
+      },
+      "hover": {
+        "value": "{red.8}",
+        "type": "color",
+        "description": "Hovered UI element border"
+      }
+    },
+    "pending": {
+      "subtle": {
+        "value": "{yellow.6}",
+        "type": "color",
+        "description": "Subtle borders and separators"
+      },
+      "default": {
+        "value": "{yellow.7}",
+        "type": "color",
+        "description": "UI element border and focus rings"
+      },
+      "hover": {
+        "value": "{yellow.8}",
+        "type": "color",
+        "description": "Hovered UI element border"
+      }
     }
   },
   "bw-card": {
     "value": "2",
     "type": "borderWidth"
   },
+  "bw-tag": {
+    "value": "1",
+    "type": "borderWidth"
+  },
   "card": {
     "default": {
       "value": {
-        "color": "{border.default}",
+        "color": "{border.mono.default}",
         "width": "{bw-card}"
+      },
+      "type": "border"
+    }
+  },
+  "tag": {
+    "success": {
+      "value": {
+        "color": "{border.success.hover}",
+        "width": "{bw-tag}"
+      },
+      "type": "border"
+    },
+    "danger": {
+      "value": {
+        "color": "{border.danger.hover}",
+        "width": "{bw-tag}"
+      },
+      "type": "border"
+    },
+    "pending": {
+      "value": {
+        "color": "{border.pending.hover}",
+        "width": "{bw-tag}"
       },
       "type": "border"
     }
