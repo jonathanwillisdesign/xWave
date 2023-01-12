@@ -34,6 +34,27 @@
         "width": "{bw-icon}"
       },
       "type": "border"
+    },
+    "success": {
+      "value": {
+        "width": "{bw-icon}",
+        "color": "{text.success}"
+      },
+      "type": "border"
+    },
+    "danger": {
+      "value": {
+        "width": "{bw-icon}",
+        "color": "{text.danger}"
+      },
+      "type": "border"
+    },
+    "pending": {
+      "value": {
+        "width": "{bw-icon}",
+        "color": "{text.pending}"
+      },
+      "type": "border"
     }
   },
   "bw-icon": {

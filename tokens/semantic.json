@@ -35,6 +35,10 @@
     "pending": {
       "value": "{yellow.11}",
       "type": "color"
+    },
+    "brand": {
+      "value": "{blue.11}",
+      "type": "color"
     }
   },
   "bg": {
@@ -133,6 +137,28 @@
         },
         "active": {
           "value": "{yellow.5}",
+          "type": "color",
+          "description": "Active / Selected UI element background"
+        }
+      },
+      "brand": {
+        "subtle": {
+          "value": "{blue.2}",
+          "type": "color",
+          "description": "Subtle background"
+        },
+        "default": {
+          "value": "{blue.3}",
+          "type": "color",
+          "description": "UI element background"
+        },
+        "hover": {
+          "value": "{blue.4}",
+          "type": "color",
+          "description": "Hovered UI element background"
+        },
+        "active": {
+          "value": "{blue.5}",
           "type": "color",
           "description": "Active / Selected UI element background"
         }
@@ -311,7 +337,7 @@
     "type": "borderWidth"
   },
   "bw-tag": {
-    "value": "1",
+    "value": "2",
     "type": "borderWidth"
   },
   "card": {
@@ -321,19 +347,26 @@
         "width": "{bw-card}"
       },
       "type": "border"
+    },
+    "hover": {
+      "value": {
+        "color": "{border.mono.default}",
+        "width": "4"
+      },
+      "type": "border"
     }
   },
   "tag": {
     "success": {
       "value": {
-        "color": "{border.success.hover}",
+        "color": "{bg.ui.success.active}",
         "width": "{bw-tag}"
       },
       "type": "border"
     },
     "danger": {
       "value": {
-        "color": "{border.danger.hover}",
+        "color": "{bg.ui.danger.active}",
         "width": "{bw-tag}"
       },
       "type": "border"
