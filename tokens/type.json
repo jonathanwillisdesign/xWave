@@ -58,9 +58,9 @@
         "fontWeight": "{fw-Bold}",
         "fontSize": "{fs-xs}",
         "lineHeight": "{lh-xs}",
-        "letterSpacing": "3%",
+        "letterSpacing": "0",
         "textDecoration": "",
-        "textCase": "Uppercase"
+        "textCase": ""
       },
       "type": "typography"
     }
