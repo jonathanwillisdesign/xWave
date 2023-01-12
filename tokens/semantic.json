@@ -154,6 +154,11 @@
           "value": "{gray.11}",
           "type": "color",
           "description": "Dark solid backgrounds"
+        },
+        "extradark": {
+          "value": "{gray.12}",
+          "type": "color",
+          "description": "Dark solid backgrounds"
         }
       },
       "brand": {
@@ -169,6 +174,11 @@
         },
         "dark": {
           "value": "{blue.11}",
+          "type": "color",
+          "description": "Dark solid backgrounds"
+        },
+        "extradark": {
+          "value": "{blue.12}",
           "type": "color",
           "description": "Dark solid backgrounds"
         }
