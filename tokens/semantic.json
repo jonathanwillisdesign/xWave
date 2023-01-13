@@ -330,6 +330,23 @@
         "type": "color",
         "description": "Hovered UI element border"
       }
+    },
+    "brand": {
+      "subtle": {
+        "value": "{blue.6}",
+        "type": "color",
+        "description": "Subtle borders and separators"
+      },
+      "default": {
+        "value": "{blue.7}",
+        "type": "color",
+        "description": "UI element border and focus rings"
+      },
+      "hover": {
+        "value": "{blue.8}",
+        "type": "color",
+        "description": "Hovered UI element border"
+      }
     }
   },
   "bw-card": {
@@ -348,10 +365,24 @@
       },
       "type": "border"
     },
+    "selected": {
+      "value": {
+        "color": "{border.brand.subtle}",
+        "width": "{bw-card}"
+      },
+      "type": "border"
+    },
     "hover": {
       "value": {
-        "color": "{border.mono.default}",
-        "width": "4"
+        "color": "{border.mono.hover}",
+        "width": "2"
+      },
+      "type": "border"
+    },
+    "selected-hover": {
+      "value": {
+        "color": "{border.brand.hover}",
+        "width": "2"
       },
       "type": "border"
     }
@@ -387,14 +418,49 @@
     }
   },
   "bs-card": {
-    "value": {
-      "x": "0",
-      "y": "2",
-      "blur": "0",
-      "spread": "0",
-      "color": "{border.mono.subtle}",
-      "type": "dropShadow"
+    "default": {
+      "value": {
+        "x": "0",
+        "y": "2",
+        "blur": "0",
+        "spread": "0",
+        "color": "{border.mono.subtle}",
+        "type": "dropShadow"
+      },
+      "type": "boxShadow"
     },
-    "type": "boxShadow"
+    "selected": {
+      "value": {
+        "x": "0",
+        "y": "2",
+        "blur": "0",
+        "spread": "0",
+        "color": "{border.brand.subtle}",
+        "type": "dropShadow"
+      },
+      "type": "boxShadow"
+    },
+    "hover": {
+      "value": {
+        "x": "0",
+        "y": "4",
+        "blur": "0",
+        "spread": "0",
+        "color": "{border.mono.hover}",
+        "type": "dropShadow"
+      },
+      "type": "boxShadow"
+    },
+    "selected-hover": {
+      "value": {
+        "x": "0",
+        "y": "4",
+        "blur": "0",
+        "spread": "0",
+        "color": "{border.brand.hover}",
+        "type": "dropShadow"
+      },
+      "type": "boxShadow"
+    }
   }
 }

@@ -64,5 +64,16 @@
       },
       "type": "typography"
     }
+  },
+  "Button": {
+    "small": {
+      "value": {
+        "fontFamily": "{ff-primary}",
+        "fontWeight": "{fw-Bold}",
+        "lineHeight": "{lh-xs}",
+        "fontSize": "14"
+      },
+      "type": "typography"
+    }
   }
 }
