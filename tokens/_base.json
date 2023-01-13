@@ -410,5 +410,9 @@
   "sp-grid": {
     "value": "{grid}",
     "type": "spacing"
+  },
+  "br-outer": {
+    "value": "16",
+    "type": "borderRadius"
   }
 }
