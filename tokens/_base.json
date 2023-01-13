@@ -112,7 +112,7 @@
     "type": "lineHeights"
   },
   "ff-primary": {
-    "value": "Poppins",
+    "value": "Inter",
     "type": "fontFamilies"
   },
   "fw-Reg": {

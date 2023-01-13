@@ -1,0 +1,10 @@
+{
+  "ff-primary": {
+    "value": "Poppins",
+    "type": "fontFamilies"
+  },
+  "fw-Bold": {
+    "value": "SemiBold",
+    "type": "fontWeights"
+  }
+}
