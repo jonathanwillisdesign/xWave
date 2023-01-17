@@ -1,33 +1,11 @@
 [
   {
-    "id": "f5e7fd3386ba011245e839d1d18218808d70438e",
-    "name": "light",
-    "selectedTokenSets": {
-      "type": "enabled",
-      "_base": "enabled",
-      "light": "enabled",
-      "Poppins": "disabled"
-    },
-    "$figmaStyleReferences": {
-      "caption.01": "S:a14c8a93c3c1cce90cd324ab472100e64a345717,",
-      "body.03": "S:f74946499642d9fb572a57bce7c54dd75230d3ac,",
-      "heading.03": "S:aace4f2f9e0881e909fd406a6428a9f48bf1c8a7,",
-      "heading.02": "S:0afb7d5cc004c1e08ee6cc4c335b9cc06e0eb7f4,",
-      "heading.01": "S:514084e1211aa5c514456000430a684978c5b076,",
-      "display.02": "S:31a46f569c8ebe610bbb16eafc6523f9429ab213,",
-      "display.01": "S:e70294aee1acb7e45dfc9aceb84ee67d7fef997f,",
-      "body.02": "S:5c69411a9abffc78e8ed59f73bc33d862accbc0a,",
-      "body.01": "S:a84ea07cf54773c46fc0a4660ee3b60644beee64,"
-    }
-  },
-  {
     "id": "71a9a3a84bec35624f346495667857d0b05fbdf5",
     "name": "dark",
     "selectedTokenSets": {
       "_base": "enabled",
       "type": "enabled",
-      "dark": "enabled",
-      "Poppins": "disabled"
+      "dark": "enabled"
     },
     "$figmaStyleReferences": {
       "gray.1": "S:4ecf536667b0d6f07130d5b3d2c77bbc3be31334,",
@@ -90,6 +68,29 @@
       "blue.10": "S:8320d941473dbf8562b12ab1cdaa8e42f94f3f91,",
       "blue.11": "S:0ba62917f4356aaa0d57d037db2ee6d5a4375708,",
       "blue.12": "S:89c31d18176a1e292eef7a06220473ae3192e060,"
+    }
+  },
+  {
+    "id": "f5e7fd3386ba011245e839d1d18218808d70438e",
+    "name": "light",
+    "selectedTokenSets": {
+      "type": "enabled",
+      "_base": "source",
+      "light": "enabled",
+      "semantic": "enabled",
+      "icons": "enabled",
+      "_desktop": "enabled"
+    },
+    "$figmaStyleReferences": {
+      "caption.01": "S:a14c8a93c3c1cce90cd324ab472100e64a345717,",
+      "body.03": "S:f74946499642d9fb572a57bce7c54dd75230d3ac,",
+      "heading.03": "S:aace4f2f9e0881e909fd406a6428a9f48bf1c8a7,",
+      "heading.02": "S:0afb7d5cc004c1e08ee6cc4c335b9cc06e0eb7f4,",
+      "heading.01": "S:514084e1211aa5c514456000430a684978c5b076,",
+      "display.02": "S:31a46f569c8ebe610bbb16eafc6523f9429ab213,",
+      "display.01": "S:e70294aee1acb7e45dfc9aceb84ee67d7fef997f,",
+      "body.02": "S:5c69411a9abffc78e8ed59f73bc33d862accbc0a,",
+      "body.01": "S:a84ea07cf54773c46fc0a4660ee3b60644beee64,"
     }
   }
 ]

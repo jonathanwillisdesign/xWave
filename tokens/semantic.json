@@ -375,14 +375,14 @@
     "hover": {
       "value": {
         "color": "{border.mono.hover}",
-        "width": "2"
+        "width": "1"
       },
       "type": "border"
     },
     "selected-hover": {
       "value": {
         "color": "{border.brand.hover}",
-        "width": "2"
+        "width": "1"
       },
       "type": "border"
     }
@@ -462,5 +462,20 @@
       },
       "type": "boxShadow"
     }
+  },
+  "bs-tooltip": {
+    "value": {
+      "x": "0",
+      "y": "2",
+      "blur": "8",
+      "spread": "0",
+      "color": "rgba({bg.app.inverted},10%)",
+      "type": "dropShadow"
+    },
+    "type": "boxShadow"
+  },
+  "bw-textinput": {
+    "value": "2",
+    "type": "borderWidth"
   }
 }
