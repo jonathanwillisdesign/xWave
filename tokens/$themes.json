@@ -79,7 +79,8 @@
       "light": "enabled",
       "semantic": "enabled",
       "icons": "enabled",
-      "_desktop": "enabled"
+      "_desktop": "enabled",
+      "dark": "enabled"
     },
     "$figmaStyleReferences": {
       "caption.01": "S:a14c8a93c3c1cce90cd324ab472100e64a345717,",

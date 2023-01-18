@@ -375,14 +375,14 @@
     "hover": {
       "value": {
         "color": "{border.mono.hover}",
-        "width": "1"
+        "width": "2"
       },
       "type": "border"
     },
     "selected-hover": {
       "value": {
         "color": "{border.brand.hover}",
-        "width": "1"
+        "width": "2"
       },
       "type": "border"
     }
