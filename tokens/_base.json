@@ -403,6 +403,10 @@
     "value": "8",
     "type": "borderRadius"
   },
+  "br-inner": {
+    "value": "4",
+    "type": "borderRadius"
+  },
   "br-full": {
     "value": "9999",
     "type": "borderRadius"

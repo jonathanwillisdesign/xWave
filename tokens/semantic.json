@@ -463,6 +463,60 @@
       "type": "boxShadow"
     }
   },
+  "bs-button": {
+    "success": {
+      "default": {
+        "value": {
+          "x": "0",
+          "y": "2",
+          "blur": "0",
+          "spread": "0",
+          "color": "{text.success}",
+          "type": "dropShadow"
+        },
+        "type": "boxShadow"
+      }
+    },
+    "danger": {
+      "default": {
+        "value": {
+          "x": "0",
+          "y": "2",
+          "blur": "0",
+          "spread": "0",
+          "color": "{text.danger}",
+          "type": "dropShadow"
+        },
+        "type": "boxShadow"
+      }
+    },
+    "pending": {
+      "default": {
+        "value": {
+          "x": "0",
+          "y": "2",
+          "blur": "0",
+          "spread": "0",
+          "color": "{text.pending}",
+          "type": "dropShadow"
+        },
+        "type": "boxShadow"
+      }
+    },
+    "mono": {
+      "default": {
+        "value": {
+          "x": "0",
+          "y": "2",
+          "blur": "0",
+          "spread": "0",
+          "color": "{text.subtle}",
+          "type": "dropShadow"
+        },
+        "type": "boxShadow"
+      }
+    }
+  },
   "bs-tooltip": {
     "value": {
       "x": "0",
