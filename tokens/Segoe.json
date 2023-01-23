@@ -1,10 +1,10 @@
 {
   "ff-primary": {
-    "value": "Poppins",
+    "value": "Segoe UI",
     "type": "fontFamilies"
   },
   "fw-Bold": {
-    "value": "SemiBold",
+    "value": "Semibold",
     "type": "fontWeights"
   }
 }

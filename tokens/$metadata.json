@@ -3,10 +3,10 @@
     "_base",
     "_desktop",
     "type",
+    "Segoe",
     "light",
     "dark",
     "semantic",
-    "icons",
-    "Poppins"
+    "icons"
   ]
 }
