@@ -7,6 +7,13 @@
       },
       "type": "border"
     },
+    "default-brand": {
+      "value": {
+        "color": "{blue.12}",
+        "width": "{bw-icon}"
+      },
+      "type": "border"
+    },
     "subtle": {
       "value": {
         "color": "{text.subtle}",
