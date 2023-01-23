@@ -84,7 +84,7 @@
     }
   },
   "lh-2xs": {
-    "value": "round(({fs-xs}*{multi.loose})/{grid})*{grid}",
+    "value": "16",
     "type": "lineHeights"
   },
   "lh-xs": {

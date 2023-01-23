@@ -57,7 +57,7 @@
         "fontFamily": "{ff-primary}",
         "fontWeight": "{fw-Bold}",
         "fontSize": "{fs-xs}",
-        "lineHeight": "{lh-xs}",
+        "lineHeight": "{lh-2xs}",
         "letterSpacing": "0",
         "textDecoration": "",
         "textCase": ""
