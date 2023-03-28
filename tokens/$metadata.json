@@ -5,11 +5,11 @@
     "type",
     "Segoe",
     "color/light",
+    "color/dark",
     "color/light_xWave",
     "color/light_xWave_bright",
     "color/light_xWave_Xtrabright",
     "color/dark_xWave_XtraBright",
-    "color/dark_OG",
     "semantic",
     "icons"
   ]

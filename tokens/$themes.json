@@ -5,7 +5,6 @@
     "selectedTokenSets": {
       "_base": "enabled",
       "type": "enabled",
-      "color/dark_OG": "disabled",
       "color/dark_xWave_XtraBright": "enabled"
     },
     "$figmaStyleReferences": {
@@ -81,7 +80,6 @@
       "icons": "enabled",
       "_desktop": "enabled",
       "color/light": "enabled",
-      "color/dark_OG": "disabled",
       "color/dark_xWave_XtraBright": "enabled"
     },
     "$figmaStyleReferences": {
