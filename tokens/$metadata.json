@@ -4,11 +4,11 @@
     "_desktop",
     "type",
     "Segoe",
-    "light",
-    "light_xWave",
-    "light_xWave_bright",
-    "light_xWave_Xtrabright",
-    "dark",
+    "color/light",
+    "color/light_xWave",
+    "color/light_xWave_bright",
+    "color/light_xWave_Xtrabright",
+    "color/dark",
     "semantic",
     "icons"
   ]
