@@ -54,15 +54,15 @@
     },
     "ui": {
       "mono": {
-        "subtle": {
+        "default": {
           "value": "{gray.2}",
           "type": "color",
-          "description": "Subtle background"
+          "description": "UI element background"
         },
-        "default": {
+        "subtle": {
           "value": "{gray.3}",
           "type": "color",
-          "description": "UI element background"
+          "description": "Subtle background"
         },
         "hover": {
           "value": "{gray.4}",
@@ -630,6 +630,41 @@
     "bg": {
       "value": "rgba({bg.solid.mono.extradark},0.65)",
       "type": "color"
+    }
+  },
+  "bs-sidebar-menu-options": {
+    "selected-hover": {
+      "value": {
+        "x": "0",
+        "y": "2",
+        "blur": "0",
+        "spread": "0",
+        "color": "{border.brand.default}",
+        "type": "dropShadow"
+      },
+      "type": "boxShadow"
+    },
+    "hover": {
+      "value": {
+        "x": "0",
+        "y": "2",
+        "blur": "0",
+        "spread": "0",
+        "color": "{border.mono.default}",
+        "type": "dropShadow"
+      },
+      "type": "boxShadow"
+    },
+    "default": {
+      "value": {
+        "x": "0",
+        "y": "0",
+        "blur": "0",
+        "spread": "0",
+        "color": "{border.mono.default}",
+        "type": "dropShadow"
+      },
+      "type": "boxShadow"
     }
   }
 }
