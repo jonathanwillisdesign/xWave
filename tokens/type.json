@@ -46,6 +46,10 @@
       "value": "{black.xl}",
       "type": "typography"
     },
+    "03": {
+      "value": "{black.lg}",
+      "type": "typography"
+    },
     "01": {
       "value": "{black.2xl}",
       "type": "typography"
